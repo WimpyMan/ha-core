@@ -1,0 +1,14 @@
+{
+  "domain": "lux_trash",
+  "name": "Lux Trash",
+  "codeowners": ["@WimpyMan"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/lux_trash",
+  "homekit": {},
+  "iot_class": "calculated",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "integration_type": "service"
+}
